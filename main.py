@@ -12,8 +12,8 @@ from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 ##############################################
 #
 #
-student_username = "221710304018"
-student_password = "nanbcdib_14thma"
+student_username = "YOUR_USERNAME"
+student_password = "YOUR_PASSWORD"
 #
 #
 ##############################################
